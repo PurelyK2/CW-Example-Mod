@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K2\\Documents\\All K2\u0027s Stuff\\Cursed Words Stuff\\Cursed Words Mods\\CW Example Mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D0599-CEA2-ADC2-AD24-24DC00A308A8}|CWExampleMod\\CWExampleMod.csproj|c:\\users\\k2\\documents\\all k2\u0027s stuff\\cursed words stuff\\cursed words mods\\cw example mod\\cwexamplemod\\characters\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5D0599-CEA2-ADC2-AD24-24DC00A308A8}|CWExampleMod\\CWExampleMod.csproj|solutionrelative:cwexamplemod\\characters\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blob.cs",
+              "DocumentMoniker": "C:\\Users\\K2\\Documents\\All K2\u0027s Stuff\\Cursed Words Stuff\\Cursed Words Mods\\CW Example Mod\\CWExampleMod\\Characters\\Blob.cs",
+              "RelativeDocumentMoniker": "CWExampleMod\\Characters\\Blob.cs",
+              "ToolTip": "C:\\Users\\K2\\Documents\\All K2\u0027s Stuff\\Cursed Words Stuff\\Cursed Words Mods\\CW Example Mod\\CWExampleMod\\Characters\\Blob.cs",
+              "RelativeToolTip": "CWExampleMod\\Characters\\Blob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:36:07.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

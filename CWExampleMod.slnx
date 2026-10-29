@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/CWExampleMod/">
+    <Project Path="CWExampleMod/CWExampleMod.csproj" />
+  </Folder>
+</Solution>

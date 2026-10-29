@@ -1,0 +1,9 @@
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\bin\Debug\net472\CWExampleMod.dll
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\bin\Debug\net472\CWExampleMod.pdb
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.csproj.AssemblyReference.cache
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.AssemblyInfoInputs.cache
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.AssemblyInfo.cs
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.csproj.CoreCompileInputs.cache
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.dll
+C:\Users\K2\Documents\All K2's Stuff\Cursed Words Stuff\Cursed Words Mods\CW Example Mod\CWExampleMod\obj\Debug\net472\CWExampleMod.pdb
